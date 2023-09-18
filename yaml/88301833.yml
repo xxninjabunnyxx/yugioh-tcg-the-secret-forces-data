@@ -1,0 +1,31 @@
+---
+id: 88301833
+name: Ascending Soul
+type: Spell Card
+frameType: spell
+desc: 'Once per turn, when a Ritual Monster(s) is Ritual Summoned: You can target
+  1 monster in your Graveyard that was Tributed for the Ritual Summon; add that target
+  to your hand.'
+race: Continuous
+card_sets:
+- set_name: Absolute Powerforce
+  set_code: ABPF-EN059
+  set_rarity: Rare
+  set_rarity_code: "(R)"
+  set_price: '2.22'
+- set_name: The Secret Forces
+  set_code: THSF-EN054
+  set_rarity: Super Rare
+  set_rarity_code: "(SR)"
+  set_price: '1.35'
+card_images:
+- id: 88301833
+  image_url: https://images.ygoprodeck.com/images/cards/88301833.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/88301833.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/88301833.jpg
+card_prices:
+- cardmarket_price: '0.14'
+  tcgplayer_price: '0.13'
+  ebay_price: '1.55'
+  amazon_price: '0.25'
+  coolstuffinc_price: '0.25'

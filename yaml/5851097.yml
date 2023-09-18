@@ -1,0 +1,38 @@
+---
+id: 5851097
+name: Vanity's Emptiness
+type: Trap Card
+frameType: trap
+desc: 'Neither player can Special Summon monsters. If a card is sent from the Deck
+  or the field to your Graveyard: Destroy this card.'
+race: Continuous
+card_sets:
+- set_name: Legendary Collection 5D's Mega Pack
+  set_code: LC5D-EN253
+  set_rarity: Secret Rare
+  set_rarity_code: "(ScR)"
+  set_price: '24.49'
+- set_name: Starstrike Blast
+  set_code: STBL-EN076
+  set_rarity: Short Print
+  set_rarity_code: "(SP)"
+  set_price: '3.66'
+- set_name: The Secret Forces
+  set_code: THSF-EN059
+  set_rarity: Super Rare
+  set_rarity_code: "(SR)"
+  set_price: '3.52'
+banlist_info:
+  ban_tcg: Banned
+  ban_ocg: Banned
+card_images:
+- id: 5851097
+  image_url: https://images.ygoprodeck.com/images/cards/5851097.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/5851097.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/5851097.jpg
+card_prices:
+- cardmarket_price: '1.48'
+  tcgplayer_price: '1.07'
+  ebay_price: '20.00'
+  amazon_price: '6.78'
+  coolstuffinc_price: '1.99'
